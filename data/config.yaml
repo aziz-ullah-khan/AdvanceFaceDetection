@@ -1,0 +1,6 @@
+train: ./data/test/images
+val: ./data/val/images
+ 
+
+nc: 1
+names: ['face']
