@@ -1,0 +1,5 @@
+# config.yaml
+train: train/images  # Path to training images
+val: val/images      # Path to validation images
+nc: 1                       # Number of classes
+names: ['face']   
